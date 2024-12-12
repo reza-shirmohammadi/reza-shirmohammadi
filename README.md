@@ -1,5 +1,5 @@
 👋 Hi, I’m Reza Shirmohammadi
-I’m a postdoctoral researcher specializing in Life Cycle Assessment (LCA), Techno-Economic Analysis (TEA), and process modeling. My work focuses on CO2 capture and utilization, renewable energy, and sustainability in environmental science.
+I’m a postdoctoral researcher specializing in Smart Energy System (SES) Life Cycle Assessment (LCA), Techno-Economic Analysis (TEA), and process modeling. My work focuses on CO2 capture and utilization, renewable energy, and sustainability in environmental science.
 
 👀 I’m interested in exploring new solutions for global environmental challenges, particularly related to bioenergy, carbon capture technologies, and renewable energy systems.
 
@@ -10,7 +10,7 @@ I’m a postdoctoral researcher specializing in Life Cycle Assessment (LCA), Tec
 📫 How to reach me:
 You can reach me through my email: reza.shirmohammadi@urv.cat or on LinkedIn: linkedin.com/in/reza-shirmohammadi
 
-😄 Pronouns: He/Him
+
 
 ⚡ Fun fact: I have published over 50 peer-reviewed articles and I am passionate about turning complex research into practical solutions for a sustainable future!
 
